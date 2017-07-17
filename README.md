@@ -1,4 +1,4 @@
-A simple calendar Application that allows 
+A simple calendar Application that allows one to view their day's schedule
 
 ### Local Set Up
 

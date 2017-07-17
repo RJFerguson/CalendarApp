@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: lightgrey;
+}
+
+.hourRow{
+  background-color: white;
+  line-height: 2em;
+  width: 30%;
+}
+
+#checkColor{
+  border-style: solid;
+  border-left: thick double blue;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+}
+
+td{
+  margin: 10px;
+  padding-left: 10px !important;
+}
